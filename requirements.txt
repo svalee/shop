@@ -1,6 +1,6 @@
 certifi==2017.11.5
 chardet==3.0.4
-Django==1.11.7
+Django==1.11.29
 django-haystack==2.6.1
 idna==2.6
 liqpay-python==1.0
